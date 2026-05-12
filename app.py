@@ -105,4 +105,4 @@ with gr.Blocks(title="MLint — ML Notebook Auditor", theme=gr.themes.Soft()) as
     """)
 
 if __name__ == "__main__":
-    app.launch()
+    app.launch(share=True)
