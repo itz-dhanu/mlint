@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Live Demo
-👉 [Try it on HuggingFace Spaces](#) ← coming soon
+👉 [Try it on HuggingFace Spaces](https://huggingface.co/spaces/itz-dhanu/mlint)
 
 ---
 
