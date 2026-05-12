@@ -8,16 +8,6 @@
 
 ---
 
-## 📸 Screenshots
-
-**Home Screen**
-![MLint UI](screenshot1.png)
-
-**Audit Report**
-![Audit Report](screenshot2.png)
-
----
-
 ## 🚀 Live Demo
 👉 [Try it on HuggingFace Spaces](#) ← coming soon
 
